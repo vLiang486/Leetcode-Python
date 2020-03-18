@@ -1,2 +1,3 @@
 # Leetcode-Python
- Leetcode Pythont解题算法
+ Leetcode Python解题算法
+
